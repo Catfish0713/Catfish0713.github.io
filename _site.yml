@@ -2,26 +2,30 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
-  left:
-    - text: "Home"
-      href: index.html
   right:
-    - text: "LinkeIn"
+    - icon: fa-github fa-lg
+      href: http://github.com/Catfish0713/    
+    - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/ruixi-li-/
     - icon: fa-envelope fa-lg
       href: mailto:<rl3328@cumc.columbia.edu>
-    - text: "Project"
-      href: projects.html
-    - text: "Plotly"
-      href: plotly.html
-    - icon: fa-github fa-lg
-      href: http://github.com/Catfish0713/
+    
+  left:
+    - text: "Personal"
+      menu:
+        - text: "Hobby"
+          href: About.html
+        - text: "Resume"
+          href: projects.html
+    - text: "P8105"
+      menu:
+        - text: "Plotly"
+          href: plotly.html
+    
 output:
   html_document:
     theme: cosmo
-    
-    
-    
+    highlight: textmate
     
     
     
