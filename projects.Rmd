@@ -1,0 +1,53 @@
+---
+title: "Project Page"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+# EDUCATION BACKGROUND
+Columbia University's Mailman School of Public Health                                         Sep. 2022-May. 2024
+Degree: Master of Public Health, Department: Epidemiology, Certificate: Advanced Epidemiology | Cumulative GPA: 4.07/4.0
+
+Sichuan University, Chengdu, China                                                           Sep. 2017-Jun. 2022
+West China School of Basic Medical Science and Forensic Medicine
+Degree: Bachelor of Medicine, Major: Basic Medical Sciences | Cumulative GPA: 3.73/4.0 | Rank in department: 2
+
+# TECHNICAL SKILLS
+* Microsoft Office: Word, Excel, PowerPoint
+*	Image visualizing: Cystoscope, Visio, Photoshop, AI
+*	Image analysis: Image J, Image Pro Plus, Flow Jo.
+*	Data analysis: GraphPad, SPSS, SAS, R, MySQL
+*	Wet lab techniques: cell culture, transfection, protein expression & purification, SRB staining, Annexin V staining, β-galactosidase staining, HE staining, DHE staining, immunofluorescence analysis, qRT-PCR, western blot analysis, flow cytometry, fluorescence microscopy and confocal microscopy, caring; handline and medicine administration of animals
+
+# RESEARCH EXPERIENCES
+* A Pooled Analysis: DASH score and Pancreatic Cancer Risk	  Mentor: Jeanine Genkinger	    			June.2023-Present
+
+* Long COVID Research Boot Camp 						  Mentor: Mady Hornig					June.2023-Present
+
+* The Mechanism of Quercetin’s Effect on Alleviating Radiation Damage to Keratinocytes of Skin          
+* Pharmacological Biotargets and the Molecular Mechanisms of Naringenin toward Wound Healing: Network and Experimental Analysis                                                                 			        Apr.2020-Jan.2021
+
+* Probe into the Mechanism of Icariin’s Effect on Enhancing Cell Viability Under Lipid Peroxidation        Oct. 2019-Oct. 2020
+
+* Research on the Interaction between GTPase-Activating Protein AGAP2 and Autophagy Marker LC3     Apr. 2019-Apr. 2020
+
+# PUBLICATIONS
+* Research Progress in the Regulation of Glucose & Lipid Metabolism by Intracellular COP Vesicle Transport-Sichuan Journal of Physiological Sciences												                Jun. 2021                                                            
+* Icaritin Attenuates Lipid Accumulation by Increasing Energy Expenditure and Autophagy Regulated by Phosphorylating AMPK-J Clin Transl Hepatol                                                   Feb.2021
+* A double-edged sword: The Kelch-like ECH-associated protein 1-nuclear factor erythroid-derived 2-related factor 2-antioxidant response element pathway targeted pharmacological modulation in nonalcoholic fatty liver disease-Curr Opin Pharmacol                                        Oct. 2021
+
+# INTERNSHIPS AND PART-TIME WORKING EXPERIENCES
+*West China School of Public Health, Chengdu, China*
+* Intern at Professor Jiayuan Li’s project team                                           June. 2021
+
+*West China Hospital, Sichuan University, Chengdu, China*
+* Intern at the Geriatrics Department                                             Oct. 2020-Nov. 2020
+
+* Intern at the Pediatric Surgery                                                           Sep. 2020
+
+# HONORS AND AWARDS
+* Outstanding Graduate granted by Sichuan University                                                         
+* The Honor of Excellent Student granted by Sichuan University  
