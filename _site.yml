@@ -20,7 +20,7 @@ navbar:
     - text: "P8105"
       menu:
         - text: "Plotly"
-          href: plotly.html
+          href: dashboard.html
     
 output:
   html_document:

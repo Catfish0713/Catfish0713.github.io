@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -17,7 +17,6 @@ library(p8105.datasets)
 ```{r}
 # Focus on INSTACART data.
 
-```{r}
 data("instacart")
 
 
@@ -25,10 +24,6 @@ protein =
   instacart |> 
   filter(department == "dairy eggs") |>
   select(order_id, user_id, reordered, order_dow, order_hour_of_day, days_since_prior_order, product_name, aisle, department)
-
-
-
-```
 ```
 
 Column {data-width=650}
