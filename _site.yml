@@ -14,7 +14,7 @@ navbar:
     - text: "Personal"
       menu:
         - text: "Hobby"
-          href: About.html
+          href: about.html
         - text: "Resume"
           href: projects.html
     - text: "P8105"

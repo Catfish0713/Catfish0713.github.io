@@ -1,21 +1,20 @@
 ---
-title: "plotly"
+title: "Untitled"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
-```{r, eval=FALSE}
+```{r setup, include=FALSE}
+library(flexdashboard)
 library(tidyverse)
 library(plotly)
 
 library(p8105.datasets)
-
 ```
 
-
-
+```{r}
 # Focus on INSTACART data.
 
 ```{r}
@@ -30,7 +29,12 @@ protein =
 
 
 ```
-# Scatterplot 
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
 
 ```{r}
 protein |>
@@ -41,9 +45,11 @@ protein |>
   layout(xaxis = list(title = "Order Numbers"), yaxis = list(title = "Aisle"))
 ```
 
-yogurt is the most popular aisle in "dairy eggs" department.
+Column {data-width=350}
+-----------------------------------------------------------------------
 
-# Barplot
+### Chart B
+
 ```{r}
 protein |>
   filter(str_detect(aisle, "cheese.$") | str_detect(aisle, "cheese$"))|>
@@ -59,19 +65,15 @@ protein |>
   layout(xaxis = list(title = "Cheese Category"), yaxis = list(title = "Reorder rate"))
 ```
 
-Among the three kind of cheeses, We didn't see significant difference between the reorder rate of "packaged cheese" and "Other creams cheeses". But the reorder rate of "specialty cheese" was lower than others.
-
-
-# Box  plot
+### Chart C
 
 ```{r}
 protein |> 
   plot_ly(y = ~order_hour_of_day, color = ~aisle, type = "box", colors = "viridis")
 ```
 
+### Chart D
 
-
-# Density plot
 ```{r}
 protein |> 
   group_by(aisle, order_hour_of_day) |>
@@ -79,8 +81,7 @@ protein |>
   plot_ly(x = ~order_hour_of_day, y = ~n, color = ~aisle, type = 'scatter', mode = 'lines', fill = 'tozeroy', colors = "viridis")
 ```
 
-Most orders for dairy eggs occurred from 10am to 5pm. But there might be a transient decrease of order numbers at 12 pm.
 
-
-
-
+```{r, eval= FALSE}
+rmarkdown::render("dashboard.Rmd", output_format = "flexdashboard::flex_dashboard")
+```
