@@ -10,3 +10,6 @@ output:
 I love cooking and reading novels during my spare times.
 I used to be good at sports but now I seldom have time to exercise.
 My dream is having a pet after I am financially independent and can be responsible for a puppy or kitten.
+
+this is my idol:
+![]
