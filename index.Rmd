@@ -11,12 +11,9 @@ Hello, I'm Ruixi Li, and welcome to my personal website.
 
 # photo
 
-![](C:/Users/rl607/OneDrive/Documents/data_science_I/Catfish0713.github.io/p8105.jpg)
-
-
-<img src="C:/Users/rl607/OneDrive/Documents/data_science_I/Catfish0713.github.io/p8105.jpg" style="width:75%">
+<img src="C:/Users/rl607/OneDrive/Documents/data_science_I/Catfish0713.github.io/p8105.jpg" style="width:55%">
 
 # Link
 
-This is a [link](https://www.google.com/) to a good data science tool. Here's a link to [p8105](https://p8105.com/making_websites.html).
-Here's a link to the [Hobby](about.html) page, a link to the [project](project.html) page and a link to the [plotly](plotly.html) page.
+This is the answer to hw4 [p8105](https://p8105.com/homework_4.html).
+But you can also learn more about me by navigating to different pages: [Hobby](about.html) page, [project](project.html) page and [plotly](plotly.html) page. The site navigation for your GitHub account, your email, and other professional networks are on the top.
