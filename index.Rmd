@@ -16,4 +16,8 @@ Hello, I'm Ruixi Li, and welcome to my personal website.
 # Link
 
 This is the answer to hw4 [p8105](https://p8105.com/homework_4.html).
-But you can also learn more about me by navigating to different pages: [Hobby](about.html) page, [project](project.html) page and [plotly](plotly.html) page. The site navigation for my GitHub account, my email, and other professional networks are on the top.
+But you can also learn more about me by navigating to different pages:
+* [Hobby](about.html) page introducing my life and hobby
+* [project](project.html) page giving your academic and professional experience
+* [plotly](plotly.html) page is the html of code and conclusion for dashboard.
+**The site navigation for my GitHub account, my email, and other professional networks are on the top.**
