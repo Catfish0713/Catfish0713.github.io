@@ -29,7 +29,7 @@ protein =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Scatterplot showing oder numbers against each aisle in "dairy eggs" department
 
 ```{r}
 protein |>
@@ -43,7 +43,7 @@ protein |>
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Bar plot showing the reorder rate for different cheeses
 
 ```{r}
 protein |>
@@ -60,14 +60,14 @@ protein |>
   layout(xaxis = list(title = "Cheese Category"), yaxis = list(title = "Reorder rate"))
 ```
 
-### Chart C
+### Box plot showing the distribution of order hour within a day for each aisle
 
 ```{r}
 protein |> 
   plot_ly(y = ~order_hour_of_day, color = ~aisle, type = "box", colors = "viridis")
 ```
 
-### Chart D
+### Density plot showing the distribution of order hour within a day for each aisle
 
 ```{r}
 protein |> 
