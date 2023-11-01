@@ -20,8 +20,8 @@ But you can also learn more about me by navigating to different pages:
 
 * [Hobby](about.html) page introducing my life and hobby
 
-* [project](project.html) page giving your academic and professional experience
+* [project](projects.html) page giving your academic and professional experience
 
-* [plotly](plotly.html) page is the html of code and conclusion for dashboard.
+* [plotly](plotly.html) page is the html of code and conclusion for dashboard(not dashboard).
 
 **The site navigation for my GitHub account, my email, and other professional networks are on the top.**
