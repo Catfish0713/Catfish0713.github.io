@@ -11,10 +11,10 @@ Hello, I'm Ruixi Li, and welcome to my personal website.
 
 # photo
 
-![](C:/Users/rl607/OneDrive/Desktop/p8105.jpg)
+![](C:/Users/rl607/OneDrive/Documents/data_science_I/Catfish0713.github.io/p8105.jpg)
 
 
-<img src="C:/Users/rl607/OneDrive/Desktop/p8105.jpg" style="width:75%">
+<img src="C:/Users/rl607/OneDrive/Documents/data_science_I/Catfish0713.github.io/p8105.jpg" style="width:75%">
 
 # Link
 
